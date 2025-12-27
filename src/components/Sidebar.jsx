@@ -5,7 +5,7 @@ const Sidebar = () => {
     <div className='bg-[#272135] text-white/70 sidebar w-[15%] h-[97vh] p-3 border border-[#453f55] rounded-2xl flex flex-col gap-2'>
       <div className='flex justify-between'>
         <div className="s1left">
-            <h1 className='text-xl text-white/90'>Drameeo</h1>
+            <h1 className='text-xl text-white/90'><i className="ri-tv-line text-[#AD46FF]"></i> Drameeo</h1>
         </div>
         <div className="s1right">
             <i className="ri-menu-unfold-3-line text-xl"></i>
