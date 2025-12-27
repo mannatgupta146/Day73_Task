@@ -3,7 +3,7 @@ import heroimg from "../assets/hero.png"
 
 const Hero = () => {
   return (
-    <div className="relative w-full h-[70vh] rounded-2xl border-2 overflow-hidden mt-6">
+    <div className="relative w-full h-[80vh] rounded-2xl border-2 overflow-hidden mt-6">
 
       {/* 🔥 BACKGROUND IMAGE (ADD YOUR IMAGE HERE) */}
       <img

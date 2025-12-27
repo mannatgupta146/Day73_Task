@@ -35,7 +35,7 @@ const Like = () => {
               <img
                 src={item.img}
                 alt={item.title}
-                className="w-60 h-64 object-cover object-top"
+                className="w-70 h-74 object-cover object-top"
               />
 
               <div className="p-4 flex justify-between items-center">
