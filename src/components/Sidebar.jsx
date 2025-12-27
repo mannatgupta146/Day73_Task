@@ -15,26 +15,26 @@ const Sidebar = () => {
       <div className='w-full h-full flex flex-col justify-between mt-2'>
         <div className='flex flex-col gap-5'>
             <div className='flex flex-col gap-3 border-b border-gray-600 pb-7'>
-                <h3><i class="ri-home-4-line"></i> Home</h3>
-                <h3><i class="ri-compass-3-line"></i> Explore</h3>
-                <h3><i class="ri-stack-line"></i> Genres</h3>
-                <h3><i class="ri-bookmark-line"></i> Favourites</h3>
+                <h3><i class="ok ri-home-4-line"></i> Home</h3>
+                <h3><i class="ok ri-compass-3-line"></i> Explore</h3>
+                <h3><i class="ok ri-stack-line"></i> Genres</h3>
+                <h3><i class="ok ri-bookmark-line"></i> Favourites</h3>
             </div>
 
             <div className='flex flex-col gap-3 border-b border-gray-600 pb-7'>
-                <h3><i class="ri-play-large-line"></i> Continue Watching</h3>
-                <h3><i class="ri-time-line"></i> Recently Added</h3>
-                <h3><i class="ri-folders-line"></i> My Collections</h3>
-                <h3><i class="ri-download-line"></i> Downloads</h3>
+                <h3><i class="ok ri-play-large-line"></i> Continue Watching</h3>
+                <h3><i class="ok ri-time-line"></i> Recently Added</h3>
+                <h3><i class="ok ri-folders-line"></i> My Collections</h3>
+                <h3><i class="ok ri-download-line"></i> Downloads</h3>
             </div>
 
             <div>
-                <h2><i class="ri-settings-3-line"></i> Settings</h2>
+                <h2><i class="ok ri-settings-3-line"></i> Settings</h2>
             </div>
 
         </div>
         <div>
-            <h2><i class="ri-logout-circle-r-line"></i>Logout</h2>
+            <h2><i class="ok ri-logout-circle-r-line"></i>Logout</h2>
         </div>
       </div>
     </div>

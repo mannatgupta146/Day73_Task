@@ -3,7 +3,7 @@ import userimg from "../assets/user.png";
 
 const Navbar = () => {
   return (
-    <div className="w-full flex justify-between items-center px-6 py-3">
+    <div className="w-full flex justify-between items-center py-3">
       
       {/* 🔍 Search Bar */}
       <div className="relative w-1/3">
