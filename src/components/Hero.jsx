@@ -1,14 +1,15 @@
 import React from "react";
+import heroimg from "../assets/hero.png"
 
 const Hero = () => {
   return (
-    <div className="relative w-full h-[60vh] rounded-2xl border-2 overflow-hidden mt-6">
+    <div className="relative w-full h-[70vh] rounded-2xl border-2 overflow-hidden mt-6">
 
       {/* 🔥 BACKGROUND IMAGE (ADD YOUR IMAGE HERE) */}
       <img
-        src=""
+        src={heroimg}
         alt="hero"
-        className="absolute inset-0 w-full h-full object-cover"
+        className="absolute inset-0 w-full h-full object-cover object-top"
       />
 
       {/* overlay */}
